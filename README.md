@@ -86,15 +86,6 @@ Natural de Brasília-DF.
 <br/>
 
 ### 📊 Analytics
-
-<p>
-  <img
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lregis-dev&show_icons=true&theme=tokyonight&incluide_all_comits=true&locale=pt-br"
-  />
-
 <picture>
         <source
             srcset="https://github-readme-stats.vercel.app/api?username=lregis-dev&show_icons=true&theme=dark"
@@ -106,4 +97,11 @@ Natural de Brasília-DF.
         />
   <img src="https://github-readme-stats.vercel.app/api?username=lregis-dev&show_icons=true" />
 </picture>
+<img
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lregis-dev&show_icons=true&theme=tokyonight&incluide_all_comits=true&locale=pt-br"
+  />
+
 </p>
