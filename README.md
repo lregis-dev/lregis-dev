@@ -2,21 +2,21 @@
 
 **`Desenvolvedor `**
 
-Sou natural de Brasília-DF.
+Natural de Brasília-DF.
 
 <p align="left"> 
     <a href="https://github.com/lregis-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lregis-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/lregis-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lregis-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -88,8 +88,7 @@ Sou natural de Brasília-DF.
 ### 📊 Analytics
 
 <p>
-  <img 
-    align="left" 
+  <img
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -97,9 +96,8 @@ Sou natural de Brasília-DF.
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lregis-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/lregis-dev/github-readme-stats" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
