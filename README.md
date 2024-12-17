@@ -100,7 +100,7 @@ Natural de Brasília-DF.
 <img 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lre&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lregis-dev&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
