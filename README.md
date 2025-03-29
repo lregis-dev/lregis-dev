@@ -1,6 +1,9 @@
 # 👨🏻‍💻 Lucas Régis
 
-**`Finance & Tech | Data Analytics & Data Science | Aspiring developer Back-end `**
+**`Aspiring developer Back-end `**
+**`Finance & Tech`**
+**`Data Analytics & Data Science`**
+
 
 Natural de Brasília-DF.
 
